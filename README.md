@@ -1,4 +1,4 @@
-# Deep Learning on the MNIST Handwritten Digits Database
+# Deep Learning on the MNIST Handwritten Digits Dataset
 
 A Jupyter notebook using Deep Learning(CNNs) in Keras on the MNIST Handwritten Digits Dataset.
 
