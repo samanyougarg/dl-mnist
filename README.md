@@ -4,4 +4,4 @@ A Jupyter notebook using Deep Learning(CNNs) in Keras on the MNIST Handwritten D
 
 For step-by-step explanation, see the notebook.
 
-The model scores 0.99485 on the Kaggle Digit Recognizer competition.
+The model scores 0.99485(20 epochs) on the Kaggle Digit Recognizer competition.
